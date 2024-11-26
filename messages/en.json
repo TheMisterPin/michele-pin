@@ -1,6 +1,16 @@
 {
-    "Hero" : {
-        "title" : "Hero",
-        "subtitle" : "A responsive one page template"
+    "Hero": {
+        "title": "Hi, I'm",
+        "subtitle": "Passionate Creator & Problem Solver",
+        "description": "I’m driven by curiosity and a love for crafting solutions that matter. Whether it's a challenging build or a fresh idea, I’m all about bringing depth, creativity, and detail to every project. Let’s create something remarkable together!",
+        "ctaContact": "Connect with Me",
+        "ctaDownload": "Explore My Work"
+    },
+    "Options": {
+        "react": "a Visionary Developer",
+        "web": "a Curious Innovator",
+        "solver": "a Lifelong Learner",
+        "creative": "an Idea Architect",
+        "welcome": "Welcome!"
     }
 }

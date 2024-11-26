@@ -1,0 +1,16 @@
+{
+    "Hero": {
+        "title": "Ciao! Sono ",
+        "subtitle": "Trasformo Idee in Capolavori Digitali",
+        "description": "Creo esperienze web all'avanguardia con una precisione pixel-perfect e un codice impeccabile. Costruiamo qualcosa di straordinario insieme!",
+        "ctaContact": "Lavoriamo Insieme!",
+        "ctaDownload": "Scarica il mio CV"
+    },
+    "Options": {
+        "react": "uno sviluppatore React",
+        "web": "un appassionato del web",
+        "solver": "un risolutore di problemi",
+        "creative": "un coder creativo",
+        "welcome": "Benvenuto nel mio portfolio!"
+    }
+}

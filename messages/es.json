@@ -1,0 +1,17 @@
+{
+
+        "Hero": {
+            "title": "¡Hola! Soy",
+            "subtitle": "Convirtiendo Ideas en Obras Maestras Digitales",
+            "description": "Desarrollo soluciones web innovadoras con un enfoque en el diseño limpio y código impecable. ¡Trabajemos juntos para dar vida a tu visión digital!",
+            "ctaContact": "¡Hablemos!",
+            "ctaDownload": "Descargar Mi CV"
+        },
+        "Options": {
+            "react": "un desarrollador React",
+            "web": "un entusiasta de la web",
+            "solver": "un solucionador de problemas",
+            "creative": "un coder creativo",
+            "welcome": "¡Bienvenido a mi portafolio!"
+        }
+    }
